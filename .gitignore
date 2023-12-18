@@ -8,8 +8,10 @@ Thumbs.db
 MiscUnshared/
 MiscUnshared/*
 *private.ipynb
-*-dev.ipynb
+*corrige.ipynb
+*Corrige.ipynb
+*dev.ipynb
 Feedback/
 Feedback/*
-dev/
-dev/*
+*dev/
+*dev/*
